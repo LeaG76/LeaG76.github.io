@@ -1,7 +1,7 @@
 header {
     height: 100vh;
     width: 100vw;
-    background-color: brown;
+    background-color: #F7F7F7;
 }
 
 .navbar {
@@ -16,7 +16,7 @@ header {
 }
 
 .navbar a {
-    color: white;
+    color: #333333;
 }
 
 .navbar .logo {
@@ -33,6 +33,6 @@ header {
 }
 
 .navbar .nav-links ul li.active a {
-    color: red;
+    color: #A76844;
     font-weight: 600;
 }
