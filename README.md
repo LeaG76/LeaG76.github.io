@@ -17,6 +17,7 @@
 
 <p>
 ➤ LeaG76.github.io/<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;➤ .gitignore/<br>
   &nbsp;&nbsp;&nbsp;&nbsp;➤ index.html/<br>
   &nbsp;&nbsp;&nbsp;&nbsp;➤ README.md/<br>
   &nbsp;&nbsp;&nbsp;&nbsp;➤ src/<br>
